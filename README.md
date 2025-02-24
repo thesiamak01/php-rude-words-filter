@@ -1,5 +1,7 @@
 # PHP Rude Words Filter
 
+![Banner](https://raw.githubusercontent.com/thesiamak01/php-rude-words-filter/refs/heads/main/cover.png)
+
 A simple PHP function to filter out rude or inappropriate words from a given text. This script provides a way to replace rude words with a specified replacement string (default: `***`).
 
 ## Features
